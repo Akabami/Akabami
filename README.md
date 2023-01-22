@@ -1,6 +1,6 @@
 - Hi, I’m @Akabami
-- I’m interested in game development
-- I’m currently learning C#
+- I’m mainly interested in game development
+- I’m currently taking the CS50 course on EdX
 - How to reach me: 
         Discord: Akabami#5480
 
